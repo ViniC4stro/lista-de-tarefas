@@ -1,3 +1,3 @@
 ## PROJETO LISTA DE TAREFAS FEITO EM JAVASCRIPT
 
-<img src=".img1.jpg" alt="Lista-de-tarefa">
+<img src="./assets/images/img1.jpg" alt="Lista-de-tarefa">
